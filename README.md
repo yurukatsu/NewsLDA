@@ -22,15 +22,35 @@ My development environment is as follows.
 
 - package
     
-    This following command is to install packages.
+    The following command is to install packages.
     ```bash
-    $ pip3 install -r ./config/requirement,txt
+    $ pip3 install -r ./config/requirement.txt
     ```
-    This following command is to update ```./config/requirement,txt```.
+    The following command is to update ```./config/requirement,txt```.
     ```bash
-    $ pip3 freeze > ./config/requirement,txt
+    $ pip3 freeze > ./config/requirement.txt
     ```
 
 ### Editor
+I use [Visual Studio Code](https://code.visualstudio.com/) and recommend to include some extensions:
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
+## Directory tree
+
+The main composition od directories is as follows.
+```
+.
+├── config
+├── doc
+└── src
+
+```
+
+We can check the directory tree in detail by typing:
+```bash
+$ sudo apt install tree
+$ tree -d .
+```
+## Documents
+The new what I studied is saved as a document in ```./doc```.
