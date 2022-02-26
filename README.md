@@ -26,7 +26,7 @@ My development environment is as follows.
     ```bash
     $ pip3 install -r ./config/requirement.txt
     ```
-    The following command is to update ```./config/requirement,txt```.
+    The following command is to update [```./config/requirement.txt```](./config/requirement.txt).
     ```bash
     $ pip3 freeze > ./config/requirement.txt
     ```
