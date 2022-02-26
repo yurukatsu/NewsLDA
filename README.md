@@ -35,6 +35,7 @@ My development environment is as follows.
 I use [Visual Studio Code](https://code.visualstudio.com/) and recommend to include some extensions:
 
 - [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
 ## Directory tree
 
