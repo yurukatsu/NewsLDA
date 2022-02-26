@@ -3,8 +3,7 @@
 ## What this project is for?
 
 There are 5 main goals.
-
-- To understand the theory of <a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation" style="color:#41E07E"> LDA </a>.
+- To understand the theory of [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation).
 - To implement LDA with [Gensim](https://radimrehurek.com/gensim/) or [fastText](https://fasttext.cc/).
 - To develop a web application for categorizing news.
 - To improve my coding and development skills.
