@@ -56,4 +56,4 @@ $ sudo apt install tree
 $ tree -d .
 ```
 ## Documents
-The new what I studied is saved as a document in [```./doc```](./doc/README.md).
+The new what I studied is saved as a document in [```./doc```](./doc).
