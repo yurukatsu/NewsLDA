@@ -41,7 +41,9 @@ I use [Visual Studio Code](https://code.visualstudio.com/) and recommend to incl
 The main composition od directories is as follows.
 ```
 .
+├── app
 ├── config
+├── data
 ├── doc
 └── src
 
